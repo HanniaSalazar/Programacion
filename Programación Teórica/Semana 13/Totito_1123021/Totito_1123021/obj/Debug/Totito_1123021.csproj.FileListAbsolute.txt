@@ -1,0 +1,8 @@
+C:\Users\INTEL\Desktop\Totito_1123021\Totito_1123021\bin\Debug\Totito_1123021.exe.config
+C:\Users\INTEL\Desktop\Totito_1123021\Totito_1123021\bin\Debug\Totito_1123021.exe
+C:\Users\INTEL\Desktop\Totito_1123021\Totito_1123021\bin\Debug\Totito_1123021.pdb
+C:\Users\INTEL\Desktop\Totito_1123021\Totito_1123021\obj\Debug\Totito_1123021.csproj.AssemblyReference.cache
+C:\Users\INTEL\Desktop\Totito_1123021\Totito_1123021\obj\Debug\Totito_1123021.csproj.SuggestedBindingRedirects.cache
+C:\Users\INTEL\Desktop\Totito_1123021\Totito_1123021\obj\Debug\Totito_1123021.csproj.CoreCompileInputs.cache
+C:\Users\INTEL\Desktop\Totito_1123021\Totito_1123021\obj\Debug\Totito_1123021.exe
+C:\Users\INTEL\Desktop\Totito_1123021\Totito_1123021\obj\Debug\Totito_1123021.pdb
